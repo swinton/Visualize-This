@@ -1,0 +1,212 @@
+country	countrycode	1990	1995	2000	2005	2008
+Afghanistan	AFG		12	36	66	78
+Albania	ALB	100	100	100	98	96
+Algeria	DZA	100	98	93	88	85
+American Samoa	ASM					
+Andorra	AND	100	100	100	100	100
+Angola	AGO	30	32	43	54	60
+Antigua and Barbuda	ATG	95	95	95	95	95
+Argentina	ARG	97	98	98	98	98
+Armenia	ARM	99	99	99	99	98
+Aruba	ABW	100	100	100	100	100
+Australia	AUS	100	100	100	100	100
+Austria	AUT	100	100	100	100	100
+Azerbaijan	AZE	88	88	88	88	88
+"Bahamas, The"	BHS	98	98	98	98	98
+Bahrain	BHR	100	100	100	100	100
+Bangladesh	BGD	88	87	86	85	85
+Barbados	BRB	100	100	100	100	100
+Belarus	BLR	100	100	100	100	100
+Belgium	BEL	100	100	100	100	100
+Belize	BLZ	89	92	95	97	99
+Benin	BEN	72	75	78	82	84
+Bermuda	BMU					
+Bhutan	BTN			99	99	99
+Bolivia	BOL	92	93	94	95	96
+Bosnia and Herzegovina	BIH		99	99	100	100
+Botswana	BWA	100	100	99	99	99
+Brazil	BRA	96	97	97	98	99
+Brunei Darussalam	BRN					
+Bulgaria	BGR	100	100	100	100	100
+Burkina Faso	BFA	73	79	85	91	95
+Burundi	BDI	97	93	89	85	83
+Cambodia	KHM	52	54	64	75	81
+Cameroon	CMR	77	82	86	90	92
+Canada	CAN	100	100	100	100	100
+Cape Verde	CPV		86	86	86	85
+Cayman Islands	CYM		93	93	95	95
+Central African Republic	CAF	78	81	85	89	92
+Chad	TCD	48	54	60	66	67
+Chile	CHL	99	99	99	99	99
+China	CHN	97	97	98	98	98
+Colombia	COL	98	98	99	99	99
+Comoros	COM	98	96	93	91	91
+"Congo, Dem. Rep."	COD	90	88	85	82	80
+"Congo, Rep."	COG			95	95	95
+Costa Rica	CRI	99	99	99	100	100
+Cote d'Ivoire	CIV	90	91	92	92	93
+Croatia	HRV		100	100	100	100
+Cuba	CUB	93	94	95	95	96
+Cyprus	CYP	100	100	100	100	100
+Czech Republic	CZE	100	100	100	100	100
+Denmark	DNK	100	100	100	100	100
+Djibouti	DJI	80	81	88	95	98
+Dominica	DMA		96	96	96	
+Dominican Republic	DOM	98	95	92	89	87
+Ecuador	ECU	81	86	91	96	97
+"Egypt, Arab Rep."	EGY	96	97	99	100	100
+El Salvador	SLV	90	91	92	94	94
+Equatorial Guinea	GNQ		45	45	45	
+Eritrea	ERI	62	64	70	74	74
+Estonia	EST	99	99	99	99	99
+Ethiopia	ETH	77	82	88	95	98
+Faeroe Islands	FRO					
+Fiji	FJI	92	93	93		
+Finland	FIN	100	100	100	100	100
+France	FRA	100	100	100	100	100
+French Polynesia	PYF	100	100	100	100	100
+Gabon	GAB		95	95	95	95
+"Gambia, The"	GMB	85	88	91	94	96
+Georgia	GEO	94	94	97	99	100
+Germany	DEU	100	100	100	100	100
+Ghana	GHA	84	86	88	89	90
+Gibraltar	GIB					
+Greece	GRC	99	100	100	100	100
+Greenland	GRL					
+Grenada	GRD	97	97	97	97	97
+Guam	GUM	100	100	100	100	100
+Guatemala	GTM	91	93	95	97	98
+Guinea	GIN	87	88	88	89	89
+Guinea-Bissau	GNB		78	79	82	83
+Guyana	GUY		92	93	96	98
+Haiti	HTI	62	65	67	70	71
+Honduras	HND	91	92	93	95	95
+"Hong Kong SAR, China"	HKG					
+Hungary	HUN	98	99	100	100	100
+Iceland	ISL	100	100	100	100	100
+India	IND	90	91	93	95	96
+Indonesia	IDN	92	91	90	90	89
+"Iran, Islamic Rep."	IRN	98	98	98	98	98
+Iraq	IRQ	97	97	95	93	91
+Ireland	IRL	100	100	100	100	100
+Isle of Man	IMN					
+Israel	ISR	100	100	100	100	100
+Italy	ITA	100	100	100	100	100
+Jamaica	JAM	98	98	98	98	98
+Japan	JPN	100	100	100	100	100
+Jordan	JOR	99	98	98	98	98
+Kazakhstan	KAZ	99	99	99	99	99
+Kenya	KEN	91	89	87	85	83
+Kiribati	KIR	76	77	77	77	
+"Korea, Dem. Rep."	PRK	100	100	100	100	100
+"Korea, Rep."	KOR	97	97	98	99	100
+Kuwait	KWT	99	99	99	99	99
+Kyrgyz Republic	KGZ	98	98	98	99	99
+Lao PDR	LAO		78	77	74	72
+Latvia	LVA	100	100	100	100	100
+Lebanon	LBN	100	100	100	100	100
+Lesotho	LSO	88	89	92	96	97
+Liberia	LBR	86	84	82	80	79
+Libya	LBY	54	54	54		
+Liechtenstein	LIE					
+Lithuania	LTU					
+Luxembourg	LUX	100	100	100	100	100
+"Macao SAR, China"	MAC					
+"Macedonia, FYR"	MKD			100	100	100
+Madagascar	MDG	78	76	73	71	71
+Malawi	MWI	90	92	93	94	95
+Malaysia	MYS	94	96	99	100	100
+Maldives	MDV	100	100	100	99	99
+Mali	MLI	54	61	69	77	81
+Malta	MLT	100	100	100	100	100
+Marshall Islands	MHL	94	94	93	93	92
+Mauritania	MRT	36	41	45	49	52
+Mauritius	MUS	100	100	100	100	100
+Mayotte	MYT					
+Mexico	MEX	94	94	95	96	96
+"Micronesia, Fed. Sts."	FSM	93	94	94	95	95
+Moldova	MDA		98	97	96	96
+Monaco	MCO	100	100	100	100	100
+Mongolia	MNG	81	82	88	94	97
+Montenegro	MNE			100	100	100
+Morocco	MAR	94	95	96	97	98
+Mozambique	MOZ	73	73	75	76	77
+Myanmar	MMR	87	85	80	75	75
+Namibia	NAM	99	99	99	99	99
+Nepal	NPL	96	95	94	93	93
+Netherlands	NLD	100	100	100	100	100
+Netherlands Antilles	ANT					
+New Caledonia	NCL					
+New Zealand	NZL	100	100	100	100	100
+Nicaragua	NIC	92	94	95	97	98
+Niger	NER	57	68	78	89	96
+Nigeria	NGA	79	78	77	76	75
+Northern Mariana Islands	MNP	98	98	98	98	98
+Norway	NOR	100	100	100	100	100
+Oman	OMN	84	84	87	90	92
+Pakistan	PAK	96	95	95	95	95
+Palau	PLW	73	74	78	80	
+Panama	PAN	99	98	97	97	97
+Papua New Guinea	PNG	89	89	88	87	87
+Paraguay	PRY	81	87	92	98	99
+Peru	PER	88	89	90	90	90
+Philippines	PHL	93	93	93	93	93
+Poland	POL	100	100	100	100	100
+Portugal	PRT	98	98	99	99	99
+Puerto Rico	PRI					
+Qatar	QAT	100	100	100	100	100
+Romania	ROU					
+Russian Federation	RUS	98	98	98	98	98
+Rwanda	RWA	96	91	85	80	77
+Samoa	WSM	99	96	92	90	
+San Marino	SMR					
+Sao Tome and Principe	STP		85	86	88	89
+Saudi Arabia	SAU	97	97	97	97	97
+Senegal	SEN	88	89	90	91	92
+Serbia	SRB			99	99	99
+Seychelles	SYC			84	94	100
+Sierra Leone	SLE		72	75	82	86
+Singapore	SGP	100	100	100	100	100
+Slovak Republic	SVK			100	100	100
+Slovenia	SVN	100	100	100	100	100
+Solomon Islands	SLB		94	94	94	
+Somalia	SOM		22	36	58	67
+South Africa	ZAF	98	98	98	99	99
+Spain	ESP	100	100	100	100	100
+Sri Lanka	LKA	91	93	95	97	98
+St. Kitts and Nevis	KNA	99	99	99	99	99
+St. Lucia	LCA	98	98	98	98	98
+St. Vincent and the Grenadines	VCT					
+Sudan	SDN	85	79	73	68	64
+Suriname	SUR	99	99	98	97	97
+Swaziland	SWZ		85	86	90	92
+Sweden	SWE	100	100	100	100	100
+Switzerland	CHE	100	100	100	100	100
+Syrian Arab Republic	SYR	96	96	95	95	94
+Tajikistan	TJK		91	92	93	94
+Tanzania	TZA	94	90	86	82	80
+Thailand	THA	97	98	98	99	99
+Timor-Leste	TLS			69	80	86
+Togo	TGO	79	81	83	86	87
+Tonga	TON		100	100	100	100
+Trinidad and Tobago	TTO	92	94	95	97	98
+Tunisia	TUN	95	96	98	99	99
+Turkey	TUR	94	95	97	99	100
+Turkmenistan	TKM	97	97	97	97	97
+Turks and Caicos Islands	TCA	100	100	100	100	100
+Tuvalu	TUV	92	93	95	97	98
+Uganda	UGA	78	81	85	89	91
+Ukraine	UKR	99	99	99	99	98
+United Arab Emirates	ARE	100	100	100	100	100
+United Kingdom	GBR	100	100	100	100	100
+United States	USA	100	100	100	100	100
+Uruguay	URY	98	98	99	100	100
+Uzbekistan	UZB	97	97	98	98	98
+Vanuatu	VUT	91	92	93	95	96
+"Venezuela, RB"	VEN	93	94	94	94	
+Vietnam	VNM	88	91	94	97	99
+Virgin Islands (U.S.)	VIR					
+West Bank and Gaza	PSE	100	100	95	91	91
+"Yemen, Rep."	YEM		88	82	75	72
+Zambia	ZMB	89	88	88	87	87
+Zimbabwe	ZWE	99	99	99	99	99

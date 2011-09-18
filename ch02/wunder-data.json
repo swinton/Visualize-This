@@ -1,0 +1,1462 @@
+{"observations": [
+{
+"date": "20090101", 
+"temperature": 26
+ },
+{
+"date": "20090102", 
+"temperature": 34
+ },
+{
+"date": "20090103", 
+"temperature": 27
+ },
+{
+"date": "20090104", 
+"temperature": 34
+ },
+{
+"date": "20090105", 
+"temperature": 34
+ },
+{
+"date": "20090106", 
+"temperature": 31
+ },
+{
+"date": "20090107", 
+"temperature": 35
+ },
+{
+"date": "20090108", 
+"temperature": 30
+ },
+{
+"date": "20090109", 
+"temperature": 25
+ },
+{
+"date": "20090110", 
+"temperature": 22
+ },
+{
+"date": "20090111", 
+"temperature": 23
+ },
+{
+"date": "20090112", 
+"temperature": 26
+ },
+{
+"date": "20090113", 
+"temperature": 33
+ },
+{
+"date": "20090114", 
+"temperature": 11
+ },
+{
+"date": "20090115", 
+"temperature": 13
+ },
+{
+"date": "20090116", 
+"temperature": 9
+ },
+{
+"date": "20090117", 
+"temperature": 15
+ },
+{
+"date": "20090118", 
+"temperature": 28
+ },
+{
+"date": "20090119", 
+"temperature": 19
+ },
+{
+"date": "20090120", 
+"temperature": 18
+ },
+{
+"date": "20090121", 
+"temperature": 21
+ },
+{
+"date": "20090122", 
+"temperature": 27
+ },
+{
+"date": "20090123", 
+"temperature": 42
+ },
+{
+"date": "20090124", 
+"temperature": 29
+ },
+{
+"date": "20090125", 
+"temperature": 17
+ },
+{
+"date": "20090126", 
+"temperature": 18
+ },
+{
+"date": "20090127", 
+"temperature": 21
+ },
+{
+"date": "20090128", 
+"temperature": 27
+ },
+{
+"date": "20090129", 
+"temperature": 25
+ },
+{
+"date": "20090130", 
+"temperature": 26
+ },
+{
+"date": "20090131", 
+"temperature": 24
+ },
+{
+"date": "20090201", 
+"temperature": 38
+ },
+{
+"date": "20090202", 
+"temperature": 32
+ },
+{
+"date": "20090203", 
+"temperature": 28
+ },
+{
+"date": "20090204", 
+"temperature": 19
+ },
+{
+"date": "20090205", 
+"temperature": 12
+ },
+{
+"date": "20090206", 
+"temperature": 25
+ },
+{
+"date": "20090207", 
+"temperature": 49
+ },
+{
+"date": "20090208", 
+"temperature": 44
+ },
+{
+"date": "20090209", 
+"temperature": 40
+ },
+{
+"date": "20090210", 
+"temperature": 54
+ },
+{
+"date": "20090211", 
+"temperature": 53
+ },
+{
+"date": "20090212", 
+"temperature": 51
+ },
+{
+"date": "20090213", 
+"temperature": 33
+ },
+{
+"date": "20090214", 
+"temperature": 27
+ },
+{
+"date": "20090215", 
+"temperature": 28
+ },
+{
+"date": "20090216", 
+"temperature": 30
+ },
+{
+"date": "20090217", 
+"temperature": 32
+ },
+{
+"date": "20090218", 
+"temperature": 36
+ },
+{
+"date": "20090219", 
+"temperature": 34
+ },
+{
+"date": "20090220", 
+"temperature": 25
+ },
+{
+"date": "20090221", 
+"temperature": 36
+ },
+{
+"date": "20090222", 
+"temperature": 33
+ },
+{
+"date": "20090223", 
+"temperature": 22
+ },
+{
+"date": "20090224", 
+"temperature": 23
+ },
+{
+"date": "20090225", 
+"temperature": 44
+ },
+{
+"date": "20090226", 
+"temperature": 48
+ },
+{
+"date": "20090227", 
+"temperature": 53
+ },
+{
+"date": "20090228", 
+"temperature": 21
+ },
+{
+"date": "20090301", 
+"temperature": 21
+ },
+{
+"date": "20090302", 
+"temperature": 53
+ },
+{
+"date": "20090303", 
+"temperature": 20
+ },
+{
+"date": "20090304", 
+"temperature": 27
+ },
+{
+"date": "20090305", 
+"temperature": 52
+ },
+{
+"date": "20090306", 
+"temperature": 58
+ },
+{
+"date": "20090307", 
+"temperature": 45
+ },
+{
+"date": "20090308", 
+"temperature": 45
+ },
+{
+"date": "20090309", 
+"temperature": 47
+ },
+{
+"date": "20090310", 
+"temperature": 46
+ },
+{
+"date": "20090311", 
+"temperature": 55
+ },
+{
+"date": "20090312", 
+"temperature": 27
+ },
+{
+"date": "20090313", 
+"temperature": 35
+ },
+{
+"date": "20090314", 
+"temperature": 43
+ },
+{
+"date": "20090315", 
+"temperature": 54
+ },
+{
+"date": "20090316", 
+"temperature": 59
+ },
+{
+"date": "20090317", 
+"temperature": 54
+ },
+{
+"date": "20090318", 
+"temperature": 57
+ },
+{
+"date": "20090319", 
+"temperature": 45
+ },
+{
+"date": "20090320", 
+"temperature": 36
+ },
+{
+"date": "20090321", 
+"temperature": 43
+ },
+{
+"date": "20090322", 
+"temperature": 43
+ },
+{
+"date": "20090323", 
+"temperature": 35
+ },
+{
+"date": "20090324", 
+"temperature": 47
+ },
+{
+"date": "20090325", 
+"temperature": 61
+ },
+{
+"date": "20090326", 
+"temperature": 54
+ },
+{
+"date": "20090327", 
+"temperature": 58
+ },
+{
+"date": "20090328", 
+"temperature": 60
+ },
+{
+"date": "20090329", 
+"temperature": 56
+ },
+{
+"date": "20090330", 
+"temperature": 37
+ },
+{
+"date": "20090331", 
+"temperature": 55
+ },
+{
+"date": "20090401", 
+"temperature": 54
+ },
+{
+"date": "20090402", 
+"temperature": 66
+ },
+{
+"date": "20090403", 
+"temperature": 61
+ },
+{
+"date": "20090404", 
+"temperature": 41
+ },
+{
+"date": "20090405", 
+"temperature": 51
+ },
+{
+"date": "20090406", 
+"temperature": 45
+ },
+{
+"date": "20090407", 
+"temperature": 31
+ },
+{
+"date": "20090408", 
+"temperature": 41
+ },
+{
+"date": "20090409", 
+"temperature": 49
+ },
+{
+"date": "20090410", 
+"temperature": 54
+ },
+{
+"date": "20090411", 
+"temperature": 46
+ },
+{
+"date": "20090412", 
+"temperature": 42
+ },
+{
+"date": "20090413", 
+"temperature": 51
+ },
+{
+"date": "20090414", 
+"temperature": 57
+ },
+{
+"date": "20090415", 
+"temperature": 59
+ },
+{
+"date": "20090416", 
+"temperature": 60
+ },
+{
+"date": "20090417", 
+"temperature": 56
+ },
+{
+"date": "20090418", 
+"temperature": 58
+ },
+{
+"date": "20090419", 
+"temperature": 57
+ },
+{
+"date": "20090420", 
+"temperature": 52
+ },
+{
+"date": "20090421", 
+"temperature": 56
+ },
+{
+"date": "20090422", 
+"temperature": 44
+ },
+{
+"date": "20090423", 
+"temperature": 45
+ },
+{
+"date": "20090424", 
+"temperature": 79
+ },
+{
+"date": "20090425", 
+"temperature": 80
+ },
+{
+"date": "20090426", 
+"temperature": 77
+ },
+{
+"date": "20090427", 
+"temperature": 80
+ },
+{
+"date": "20090428", 
+"temperature": 66
+ },
+{
+"date": "20090429", 
+"temperature": 62
+ },
+{
+"date": "20090430", 
+"temperature": 69
+ },
+{
+"date": "20090501", 
+"temperature": 65
+ },
+{
+"date": "20090502", 
+"temperature": 57
+ },
+{
+"date": "20090503", 
+"temperature": 64
+ },
+{
+"date": "20090504", 
+"temperature": 63
+ },
+{
+"date": "20090505", 
+"temperature": 70
+ },
+{
+"date": "20090506", 
+"temperature": 69
+ },
+{
+"date": "20090507", 
+"temperature": 63
+ },
+{
+"date": "20090508", 
+"temperature": 68
+ },
+{
+"date": "20090509", 
+"temperature": 70
+ },
+{
+"date": "20090510", 
+"temperature": 48
+ },
+{
+"date": "20090511", 
+"temperature": 59
+ },
+{
+"date": "20090512", 
+"temperature": 60
+ },
+{
+"date": "20090513", 
+"temperature": 73
+ },
+{
+"date": "20090514", 
+"temperature": 66
+ },
+{
+"date": "20090515", 
+"temperature": 70
+ },
+{
+"date": "20090516", 
+"temperature": 74
+ },
+{
+"date": "20090517", 
+"temperature": 56
+ },
+{
+"date": "20090518", 
+"temperature": 56
+ },
+{
+"date": "20090519", 
+"temperature": 68
+ },
+{
+"date": "20090520", 
+"temperature": 76
+ },
+{
+"date": "20090521", 
+"temperature": 78
+ },
+{
+"date": "20090522", 
+"temperature": 73
+ },
+{
+"date": "20090523", 
+"temperature": 78
+ },
+{
+"date": "20090524", 
+"temperature": 74
+ },
+{
+"date": "20090525", 
+"temperature": 70
+ },
+{
+"date": "20090526", 
+"temperature": 72
+ },
+{
+"date": "20090527", 
+"temperature": 79
+ },
+{
+"date": "20090528", 
+"temperature": 79
+ },
+{
+"date": "20090529", 
+"temperature": 65
+ },
+{
+"date": "20090530", 
+"temperature": 64
+ },
+{
+"date": "20090531", 
+"temperature": 58
+ },
+{
+"date": "20090601", 
+"temperature": 68
+ },
+{
+"date": "20090602", 
+"temperature": 68
+ },
+{
+"date": "20090603", 
+"temperature": 67
+ },
+{
+"date": "20090604", 
+"temperature": 69
+ },
+{
+"date": "20090605", 
+"temperature": 75
+ },
+{
+"date": "20090606", 
+"temperature": 71
+ },
+{
+"date": "20090607", 
+"temperature": 72
+ },
+{
+"date": "20090608", 
+"temperature": 66
+ },
+{
+"date": "20090609", 
+"temperature": 69
+ },
+{
+"date": "20090610", 
+"temperature": 73
+ },
+{
+"date": "20090611", 
+"temperature": 72
+ },
+{
+"date": "20090612", 
+"temperature": 71
+ },
+{
+"date": "20090613", 
+"temperature": 69
+ },
+{
+"date": "20090614", 
+"temperature": 75
+ },
+{
+"date": "20090615", 
+"temperature": 76
+ },
+{
+"date": "20090616", 
+"temperature": 81
+ },
+{
+"date": "20090617", 
+"temperature": 70
+ },
+{
+"date": "20090618", 
+"temperature": 62
+ },
+{
+"date": "20090619", 
+"temperature": 75
+ },
+{
+"date": "20090620", 
+"temperature": 67
+ },
+{
+"date": "20090621", 
+"temperature": 73
+ },
+{
+"date": "20090622", 
+"temperature": 79
+ },
+{
+"date": "20090623", 
+"temperature": 81
+ },
+{
+"date": "20090624", 
+"temperature": 82
+ },
+{
+"date": "20090625", 
+"temperature": 85
+ },
+{
+"date": "20090626", 
+"temperature": 80
+ },
+{
+"date": "20090627", 
+"temperature": 79
+ },
+{
+"date": "20090628", 
+"temperature": 71
+ },
+{
+"date": "20090629", 
+"temperature": 77
+ },
+{
+"date": "20090630", 
+"temperature": 69
+ },
+{
+"date": "20090701", 
+"temperature": 73
+ },
+{
+"date": "20090702", 
+"temperature": 69
+ },
+{
+"date": "20090703", 
+"temperature": 71
+ },
+{
+"date": "20090704", 
+"temperature": 69
+ },
+{
+"date": "20090705", 
+"temperature": 74
+ },
+{
+"date": "20090706", 
+"temperature": 74
+ },
+{
+"date": "20090707", 
+"temperature": 67
+ },
+{
+"date": "20090708", 
+"temperature": 71
+ },
+{
+"date": "20090709", 
+"temperature": 78
+ },
+{
+"date": "20090710", 
+"temperature": 83
+ },
+{
+"date": "20090711", 
+"temperature": 77
+ },
+{
+"date": "20090712", 
+"temperature": 70
+ },
+{
+"date": "20090713", 
+"temperature": 71
+ },
+{
+"date": "20090714", 
+"temperature": 73
+ },
+{
+"date": "20090715", 
+"temperature": 79
+ },
+{
+"date": "20090716", 
+"temperature": 76
+ },
+{
+"date": "20090717", 
+"temperature": 70
+ },
+{
+"date": "20090718", 
+"temperature": 70
+ },
+{
+"date": "20090719", 
+"temperature": 70
+ },
+{
+"date": "20090720", 
+"temperature": 77
+ },
+{
+"date": "20090721", 
+"temperature": 72
+ },
+{
+"date": "20090722", 
+"temperature": 79
+ },
+{
+"date": "20090723", 
+"temperature": 78
+ },
+{
+"date": "20090724", 
+"temperature": 73
+ },
+{
+"date": "20090725", 
+"temperature": 79
+ },
+{
+"date": "20090726", 
+"temperature": 77
+ },
+{
+"date": "20090727", 
+"temperature": 74
+ },
+{
+"date": "20090728", 
+"temperature": 82
+ },
+{
+"date": "20090729", 
+"temperature": 77
+ },
+{
+"date": "20090730", 
+"temperature": 78
+ },
+{
+"date": "20090731", 
+"temperature": 78
+ },
+{
+"date": "20090801", 
+"temperature": 81
+ },
+{
+"date": "20090802", 
+"temperature": 75
+ },
+{
+"date": "20090803", 
+"temperature": 77
+ },
+{
+"date": "20090804", 
+"temperature": 82
+ },
+{
+"date": "20090805", 
+"temperature": 74
+ },
+{
+"date": "20090806", 
+"temperature": 75
+ },
+{
+"date": "20090807", 
+"temperature": 74
+ },
+{
+"date": "20090808", 
+"temperature": 75
+ },
+{
+"date": "20090809", 
+"temperature": 81
+ },
+{
+"date": "20090810", 
+"temperature": 84
+ },
+{
+"date": "20090811", 
+"temperature": 83
+ },
+{
+"date": "20090812", 
+"temperature": 81
+ },
+{
+"date": "20090813", 
+"temperature": 84
+ },
+{
+"date": "20090814", 
+"temperature": 86
+ },
+{
+"date": "20090815", 
+"temperature": 87
+ },
+{
+"date": "20090816", 
+"temperature": 86
+ },
+{
+"date": "20090817", 
+"temperature": 88
+ },
+{
+"date": "20090818", 
+"temperature": 82
+ },
+{
+"date": "20090819", 
+"temperature": 80
+ },
+{
+"date": "20090820", 
+"temperature": 87
+ },
+{
+"date": "20090821", 
+"temperature": 81
+ },
+{
+"date": "20090822", 
+"temperature": 82
+ },
+{
+"date": "20090823", 
+"temperature": 73
+ },
+{
+"date": "20090824", 
+"temperature": 72
+ },
+{
+"date": "20090825", 
+"temperature": 76
+ },
+{
+"date": "20090826", 
+"temperature": 73
+ },
+{
+"date": "20090827", 
+"temperature": 71
+ },
+{
+"date": "20090828", 
+"temperature": 67
+ },
+{
+"date": "20090829", 
+"temperature": 71
+ },
+{
+"date": "20090830", 
+"temperature": 64
+ },
+{
+"date": "20090831", 
+"temperature": 69
+ },
+{
+"date": "20090901", 
+"temperature": 72
+ },
+{
+"date": "20090902", 
+"temperature": 76
+ },
+{
+"date": "20090903", 
+"temperature": 79
+ },
+{
+"date": "20090904", 
+"temperature": 77
+ },
+{
+"date": "20090905", 
+"temperature": 77
+ },
+{
+"date": "20090906", 
+"temperature": 76
+ },
+{
+"date": "20090907", 
+"temperature": 74
+ },
+{
+"date": "20090908", 
+"temperature": 78
+ },
+{
+"date": "20090909", 
+"temperature": 77
+ },
+{
+"date": "20090910", 
+"temperature": 77
+ },
+{
+"date": "20090911", 
+"temperature": 67
+ },
+{
+"date": "20090912", 
+"temperature": 73
+ },
+{
+"date": "20090913", 
+"temperature": 75
+ },
+{
+"date": "20090914", 
+"temperature": 73
+ },
+{
+"date": "20090915", 
+"temperature": 74
+ },
+{
+"date": "20090916", 
+"temperature": 64
+ },
+{
+"date": "20090917", 
+"temperature": 70
+ },
+{
+"date": "20090918", 
+"temperature": 69
+ },
+{
+"date": "20090919", 
+"temperature": 66
+ },
+{
+"date": "20090920", 
+"temperature": 77
+ },
+{
+"date": "20090921", 
+"temperature": 78
+ },
+{
+"date": "20090922", 
+"temperature": 76
+ },
+{
+"date": "20090923", 
+"temperature": 76
+ },
+{
+"date": "20090924", 
+"temperature": 73
+ },
+{
+"date": "20090925", 
+"temperature": 63
+ },
+{
+"date": "20090926", 
+"temperature": 65
+ },
+{
+"date": "20090927", 
+"temperature": 67
+ },
+{
+"date": "20090928", 
+"temperature": 63
+ },
+{
+"date": "20090929", 
+"temperature": 63
+ },
+{
+"date": "20090930", 
+"temperature": 50
+ },
+{
+"date": "20091001", 
+"temperature": 52
+ },
+{
+"date": "20091002", 
+"temperature": 56
+ },
+{
+"date": "20091003", 
+"temperature": 66
+ },
+{
+"date": "20091004", 
+"temperature": 54
+ },
+{
+"date": "20091005", 
+"temperature": 58
+ },
+{
+"date": "20091006", 
+"temperature": 63
+ },
+{
+"date": "20091007", 
+"temperature": 61
+ },
+{
+"date": "20091008", 
+"temperature": 60
+ },
+{
+"date": "20091009", 
+"temperature": 56
+ },
+{
+"date": "20091010", 
+"temperature": 55
+ },
+{
+"date": "20091011", 
+"temperature": 50
+ },
+{
+"date": "20091012", 
+"temperature": 48
+ },
+{
+"date": "20091013", 
+"temperature": 51
+ },
+{
+"date": "20091014", 
+"temperature": 45
+ },
+{
+"date": "20091015", 
+"temperature": 41
+ },
+{
+"date": "20091016", 
+"temperature": 43
+ },
+{
+"date": "20091017", 
+"temperature": 45
+ },
+{
+"date": "20091018", 
+"temperature": 50
+ },
+{
+"date": "20091019", 
+"temperature": 54
+ },
+{
+"date": "20091020", 
+"temperature": 56
+ },
+{
+"date": "20091021", 
+"temperature": 60
+ },
+{
+"date": "20091022", 
+"temperature": 61
+ },
+{
+"date": "20091023", 
+"temperature": 59
+ },
+{
+"date": "20091024", 
+"temperature": 61
+ },
+{
+"date": "20091025", 
+"temperature": 54
+ },
+{
+"date": "20091026", 
+"temperature": 64
+ },
+{
+"date": "20091027", 
+"temperature": 61
+ },
+{
+"date": "20091028", 
+"temperature": 53
+ },
+{
+"date": "20091029", 
+"temperature": 53
+ },
+{
+"date": "20091030", 
+"temperature": 67
+ },
+{
+"date": "20091101", 
+"temperature": 50
+ },
+{
+"date": "20091102", 
+"temperature": 53
+ },
+{
+"date": "20091103", 
+"temperature": 51
+ },
+{
+"date": "20091104", 
+"temperature": 43
+ },
+{
+"date": "20091105", 
+"temperature": 43
+ },
+{
+"date": "20091106", 
+"temperature": 40
+ },
+{
+"date": "20091107", 
+"temperature": 63
+ },
+{
+"date": "20091108", 
+"temperature": 68
+ },
+{
+"date": "20091109", 
+"temperature": 64
+ },
+{
+"date": "20091110", 
+"temperature": 55
+ },
+{
+"date": "20091111", 
+"temperature": 50
+ },
+{
+"date": "20091112", 
+"temperature": 51
+ },
+{
+"date": "20091113", 
+"temperature": 57
+ },
+{
+"date": "20091114", 
+"temperature": 64
+ },
+{
+"date": "20091115", 
+"temperature": 56
+ },
+{
+"date": "20091116", 
+"temperature": 44
+ },
+{
+"date": "20091117", 
+"temperature": 48
+ },
+{
+"date": "20091118", 
+"temperature": 61
+ },
+{
+"date": "20091119", 
+"temperature": 54
+ },
+{
+"date": "20091120", 
+"temperature": 49
+ },
+{
+"date": "20091121", 
+"temperature": 47
+ },
+{
+"date": "20091122", 
+"temperature": 52
+ },
+{
+"date": "20091123", 
+"temperature": 54
+ },
+{
+"date": "20091124", 
+"temperature": 50
+ },
+{
+"date": "20091125", 
+"temperature": 54
+ },
+{
+"date": "20091126", 
+"temperature": 51
+ },
+{
+"date": "20091127", 
+"temperature": 40
+ },
+{
+"date": "20091128", 
+"temperature": 40
+ },
+{
+"date": "20091129", 
+"temperature": 51
+ },
+{
+"date": "20091130", 
+"temperature": 44
+ },
+{
+"date": "20091131", 
+"temperature": 41
+ },
+{
+"date": "20091201", 
+"temperature": 43
+ },
+{
+"date": "20091202", 
+"temperature": 50
+ },
+{
+"date": "20091203", 
+"temperature": 52
+ },
+{
+"date": "20091204", 
+"temperature": 37
+ },
+{
+"date": "20091205", 
+"temperature": 33
+ },
+{
+"date": "20091206", 
+"temperature": 36
+ },
+{
+"date": "20091207", 
+"temperature": 33
+ },
+{
+"date": "20091208", 
+"temperature": 34
+ },
+{
+"date": "20091209", 
+"temperature": 47
+ },
+{
+"date": "20091210", 
+"temperature": 33
+ },
+{
+"date": "20091211", 
+"temperature": 21
+ },
+{
+"date": "20091212", 
+"temperature": 34
+ },
+{
+"date": "20091213", 
+"temperature": 39
+ },
+{
+"date": "20091214", 
+"temperature": 41
+ },
+{
+"date": "20091215", 
+"temperature": 42
+ },
+{
+"date": "20091216", 
+"temperature": 26
+ },
+{
+"date": "20091217", 
+"temperature": 22
+ },
+{
+"date": "20091218", 
+"temperature": 27
+ },
+{
+"date": "20091219", 
+"temperature": 26
+ },
+{
+"date": "20091220", 
+"temperature": 31
+ },
+{
+"date": "20091221", 
+"temperature": 30
+ },
+{
+"date": "20091222", 
+"temperature": 26
+ },
+{
+"date": "20091223", 
+"temperature": 24
+ },
+{
+"date": "20091224", 
+"temperature": 29
+ },
+{
+"date": "20091225", 
+"temperature": 44
+ },
+{
+"date": "20091226", 
+"temperature": 44
+ },
+{
+"date": "20091227", 
+"temperature": 33
+ },
+{
+"date": "20091228", 
+"temperature": 29
+ },
+{
+"date": "20091229", 
+"temperature": 20
+ },
+{
+"date": "20091230", 
+"temperature": 30
+ },
+{
+"date": "20091231", 
+"temperature": 35
+ }
+] }
