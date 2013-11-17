@@ -2,7 +2,7 @@ import csv
 
 reader = csv.reader(open('wunder-data.txt', 'r'), delimiter=",")
 
-print "{ observations: ["
+print '{ "observations": ['
 
 rows_so_far = 0
 for row in reader:
